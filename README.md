@@ -8,6 +8,8 @@ A portfolio data analytics project exploring pedestrian activity across Melbourn
 
 \## Business Context
 
+A Melbourne retail or precinct-management organisation needs evidence to improve staffing, operating-hour, location and wet-weather planning decisions using pedestrian traffic and weather information.
+
 
 
 \## Project Objective
@@ -15,6 +17,12 @@ A portfolio data analytics project exploring pedestrian activity across Melbourn
 
 
 \## Stakeholders
+
+1. Retail Operations Manager
+
+2\. Workforce Planning Manager
+
+3\. Precinct or Location Manager
 
 
 
